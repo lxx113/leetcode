@@ -1,2 +1,2 @@
 # leetcode
-# This is my practice code for Leetcode.
+ This is my practice code for Leetcode.
